@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @cristiantech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Cristian 🖥 🦹‍♀️ 
+![perfil](./1631118505645.jpeg)
 
-<!---
-cristiantech/cristiantech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i'm an engineer developer who is passionate for the progrraming in JavaSript, also i'm teacher of aplications web in the ITI 🏫 
+- 📱 JavaScript, Java
+- 🧐 HTML, CSS
+- 💆 GITHUB, GIT
+- 🙂 React, Angular
+- 🔖 DB Mysql, Postgres, Mongo, SQL server
+- 📦 Docker
+- 🥬 Linux
+
+
